@@ -1,4 +1,4 @@
-# Telagram Control Bot Appläcation with Raspberr Pi
+# Telagram Control Bot Appläcation with Raspberry Pi
 
 Before use you should extract the node_modules.zip file
 
